@@ -1,0 +1,12 @@
+.header a{
+    margin-left: 20px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+.header{
+    background-color: cadetblue;
+    padding: 20px;
+    margin-bottom: 20px;
+    
+}
